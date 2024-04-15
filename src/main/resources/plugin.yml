@@ -1,0 +1,7 @@
+name: ContentCreatorUtils
+version: '${project.version}'
+main: it.icewolf23x.plugins.contentcreatorutils.ContentCreatorUtils
+api-version: '1.20'
+prefix: ContentCreatorUtils
+authors: [IceWolf23X]
+description: Adds some utility command and functions for Content Creators
